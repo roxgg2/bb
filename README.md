@@ -9,3 +9,9 @@ TypeError: doctor_appointment_help(): Argument #2 ($route) must be of type Drupa
 The website encountered an unexpected error. Try again later.
 
 Twig\Error\LoaderError: Template ".html.twig" is not defined. in Twig\Loader\ChainLoader->getCacheKey() (line 51 of themes\contrib\classy\templates\layout\html.html.twig).
+
+
+http://localhost/project2/book-appointment
+The website encountered an unexpected error. Try again later.
+
+TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in str_replace() (line 42 of core\lib\Drupal\Core\Access\RouteProcessorCsrf.php).
