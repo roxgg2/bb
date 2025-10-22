@@ -28,3 +28,10 @@ http://localhost/project2/dashboard?check_logged_in=1
 The website encountered an unexpected error. Try again later.
 
 TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in str_replace() (line 42 of core\lib\Drupal\Core\Access\RouteProcessorCsrf.php).
+
+
+
+http://localhost/project2/book-appointment
+The website encountered an unexpected error. Try again later.
+
+Drupal\Core\Entity\Query\QueryException: Entity queries must explicitly set whether the query should be access checked or not. See Drupal\Core\Entity\Query\QueryInterface::accessCheck(). in Drupal\Core\Entity\Query\Sql\Query->prepare() (line 142 of core\lib\Drupal\Core\Entity\Query\Sql\Query.php).
