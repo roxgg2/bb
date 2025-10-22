@@ -35,3 +35,5 @@ http://localhost/project2/book-appointment
 The website encountered an unexpected error. Try again later.
 
 Drupal\Core\Entity\Query\QueryException: Entity queries must explicitly set whether the query should be access checked or not. See Drupal\Core\Entity\Query\QueryInterface::accessCheck(). in Drupal\Core\Entity\Query\Sql\Query->prepare() (line 142 of core\lib\Drupal\Core\Entity\Query\Sql\Query.php).
+
+http://localhost/project2/user/logout/confirm
