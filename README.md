@@ -15,3 +15,9 @@ http://localhost/project2/book-appointment
 The website encountered an unexpected error. Try again later.
 
 TypeError: str_replace(): Argument #2 ($replace) must be of type string when argument #1 ($search) is a string in str_replace() (line 42 of core\lib\Drupal\Core\Access\RouteProcessorCsrf.php).
+
+
+http://localhost/project2/select-time/1
+The website encountered an unexpected error. Try again later.
+
+InvalidArgumentException: "doctor" is an invalid render array key. Value should be an array but got a object. in Drupal\Core\Render\Element::children() (line 97 of core\lib\Drupal\Core\Render\Element.php).
