@@ -37,3 +37,26 @@ The website encountered an unexpected error. Try again later.
 Drupal\Core\Entity\Query\QueryException: Entity queries must explicitly set whether the query should be access checked or not. See Drupal\Core\Entity\Query\QueryInterface::accessCheck(). in Drupal\Core\Entity\Query\Sql\Query->prepare() (line 142 of core\lib\Drupal\Core\Entity\Query\Sql\Query.php).
 
 http://localhost/project2/user/logout/confirm
+
+
+
+Subject: Interview Invitation – Inventevo Infotech Pvt. Ltd.
+ 
+Dear Shrushti Ambre,
+Greetings from Inventevo Infotech Pvt. Ltd.!
+We are pleased to inform you that you have been shortlisted for an interview with our team. Please find the details below:
+Date: 5th December 2025
+Time: 3:00 PM onwards
+Position: Data Analyst
+Location:
+1101, 11th Floor, Real Tech Park,
+Vashi, Navi Mumbai, Maharashtra – 400703, India
+ 
+Kindly confirm your availability for the scheduled time. If you have any queries or require assistance, feel free to reach out to us.
+Looking forward to meeting you.
+ 
+Best Regards,
+Yash Naktode
+Talent Acquisition Specialist
+Inventevo Infotech Pvt. Ltd.
+📞 8275083323
