@@ -60,3 +60,6 @@ Yash Naktode
 Talent Acquisition Specialist
 Inventevo Infotech Pvt. Ltd.
 📞 8275083323
+
+![image](https://github.com/user-attachments/assets/59d1838b-16e1-47f0-82f0-544299212636)
+
