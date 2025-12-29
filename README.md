@@ -68,6 +68,11 @@ Best Regards,
 
 
 
+Engineered production-grade Gen AI application leveraging OpenAI GPT-4 and Anthropic Claude-3 LLMs with advanced prompt engineering techniques, processing 2000+ token contexts to generate intelligent code reviews across 8+ programming languages, achieving 90% relevance score and 85% developer satisfaction rate
+
+Designed and implemented hybrid AI architecture integrating Large Language Models with traditional static analysis tools (AST parsing, complexity metrics), reducing manual code review time by 60% while improving code quality by 35% and detecting 40% more potential bugs through multi-modal analysis approach
+
+Built scalable AI-powered REST API using Python Flask with lazy initialization patterns and multi-provider fallback mechanisms (OpenAI/Anthropic), handling concurrent LLM requests with 0.3 temperature optimization for consistent outputs and achieving 99% API uptime through robust error handling
 
 Yash Naktode
 Talent Acquisition Specialist
