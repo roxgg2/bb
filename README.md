@@ -56,6 +56,16 @@ Kindly confirm your availability for the scheduled time. If you have any queries
 Looking forward to meeting you.
  
 Best Regards,
+
+
+
+• Designed and deployed AI-powered resume optimization platform using Next.js, TypeScript, Python FastAPI, and Hugging Face Transformers to analyze resumes against job descriptions, providing ATS scores and actionable improvement suggestions with 85-90% accuracy
+
+• Implemented intelligent NLP pipeline utilizing sentence-transformers (all-mpnet-base-v2) for semantic similarity analysis and RoBERTa for named entity recognition to extract skills, calculate keyword matches, and identify missing qualifications from job postings
+
+• Architected cloud-native deployment on Railway (Python backend) and Vercel (Next.js frontend) with automated CI/CD via GitHub integration, environment variable management, CORS security configuration, and cost-optimized free-tier infrastructure serving production traffic
+
+
 Yash Naktode
 Talent Acquisition Specialist
 Inventevo Infotech Pvt. Ltd.
