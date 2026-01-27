@@ -81,3 +81,10 @@ Inventevo Infotech Pvt. Ltd.
 
 ![image](https://github.com/user-attachments/assets/59d1838b-16e1-47f0-82f0-544299212636)
 
+
+
+[27/01, 10:33 am] Rohit: https://www.reddit.com/r/leetcode/s/fFgiVkpifj
+[27/01, 10:39 am] Rohit: https://github.com/kevin3010/FAANGQuestionsOnReddit
+[27/01, 10:40 am] Rohit: https://www.reddit.com/r/leetcode/s/cl48DWc3GU
+[27/01, 3:25 pm] Rohit: https://www.geeksforgeeks.org/dsa/amazon-sde-sheet-interview-questions-and-answers/
+
