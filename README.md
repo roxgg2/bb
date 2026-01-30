@@ -88,3 +88,5 @@ Inventevo Infotech Pvt. Ltd.
 [27/01, 10:40 am] Rohit: https://www.reddit.com/r/leetcode/s/cl48DWc3GU
 [27/01, 3:25 pm] Rohit: https://www.geeksforgeeks.org/dsa/amazon-sde-sheet-interview-questions-and-answers/
 
+[29/01, 10:46 am] Deep Shelke: https://fantasy-08.github.io/LeetcodeCompanyWiseCode/
+[29/01, 10:47 am] Deep Shelke: https://github.com/liquidslr/leetcode-company-wise-problems
